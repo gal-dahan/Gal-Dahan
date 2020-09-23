@@ -13,11 +13,10 @@ Since then I am constantly learning and developing my skills in this field. 👨
 
 </details>
 
-<p align="center" >
+<h4 align="center"><samp>
 
 ### 📫 How to reach me:   
-
-</p>
+ </samp></h4>
    <a href="https://github.com/sponsors/gal-dahan"><img align="left" width="270" height="290" src="https://image.freepik.com/free-vector/young-freelancer-programmer-coding-with-laptop-vector-geek-character-isolated-white-background_53562-11083.jpg"></a>
 <p align="left"  width="20" height="22" >
 <a href= "https://www.linkedin.com/in/gal-dahan-328a17176/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
