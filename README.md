@@ -13,7 +13,7 @@ Since then I am constantly learning and developing my skills in this field. 👨
 
 </details>
 
-<p align="left"  width="20" height="22" >
+<p align="center" >
 
 ### 📫 How to reach me:   
 
