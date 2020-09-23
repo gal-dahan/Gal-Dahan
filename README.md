@@ -12,7 +12,7 @@ Since then I am constantly learning and developing my skills in this field. 👨
 ## contact me 🚀: <a href="https://github.com/sponsors/gal-dahan"><img align="left" width="250" height="270" src="https://image.freepik.com/free-vector/young-freelancer-programmer-coding-with-laptop-vector-geek-character-isolated-white-background_53562-11083.jpg"></a>
 
 -  <a href="https://www.linkedin.com/in/gal-dahan-328a17176/">LinkedIn</a> 💼
--  <a href="https://www.linkedin.com/in/gal-dahan-328a17176/">Gmail</a> 💼
+-  <a href="https://www.linkedin.com/in/gal-dahan-328a17176/">Gmail</a> 📧
 - 
 <!--
 **gal-dahan/Gal-Dahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
