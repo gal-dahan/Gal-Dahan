@@ -9,7 +9,7 @@ Since then I am constantly learning and developing my skills in this field. 👨
 
 [![Gal's github stats](https://github-readme-stats.vercel.app/api?username=gal-dahan)](https://github.com/gal-dahan/github-readme-stats)
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/gal-dahan"><img align="left" width="250" height="270" src="https://image.freepik.com/free-vector/young-freelancer-programmer-coding-with-laptop-vector-geek-character-isolated-white-background_53562-11083.jpg"></a>
+## contact me 📫: <a href="https://github.com/sponsors/gal-dahan"><img align="left" width="250" height="270" src="https://image.freepik.com/free-vector/young-freelancer-programmer-coding-with-laptop-vector-geek-character-isolated-white-background_53562-11083.jpg"></a>
 
 - Sharing updates on <a href="https://www.linkedin.com/in/gal-dahan-328a17176/">LinkedIn</a> 💼
 
