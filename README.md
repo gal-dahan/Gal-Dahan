@@ -5,7 +5,7 @@ Interacting with computers has been my passion ever since I was a young kid.
 since I downloaded Softwares and games but mostly Clone Script.
 When I edited , designed and translated I fell in love in code and websites. 
 Since then just does not stop learning.👨‍💻
-[![Gal's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/gal-dahan/github-readme-stats)
+[![Gal's github stats](https://github-readme-stats.vercel.app/api?username=gal-dahan)](https://github.com/gal-dahan/github-readme-stats)
 
 
 
