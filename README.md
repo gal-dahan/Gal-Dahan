@@ -1,4 +1,5 @@
-### Hi, I'm Gal! 👋
+### Hi, I'm Gal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 🔥 23 Year's Old computer science student from Israel🔥
 ### 💬 About Me 
 Interacting with computers has been my passion ever since I was a young kid. 
