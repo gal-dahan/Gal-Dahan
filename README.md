@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Gal! 👋
+🔥 23 Year's Old computer science student from Israel
+### 💬 About Me 
+Interacting with computers has been my passion ever since I was a young kid. 
+since I downloaded Softwares and games but mostly Clone Script.
+When I edited , designed and translated I fell in love in code and websites. 
+Since then just does not stop learning.👨‍💻
+[![Gal's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/gal-dahan/github-readme-stats)
+
+
+
 
 <!--
 **gal-dahan/Gal-Dahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
