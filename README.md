@@ -9,7 +9,7 @@ Since then I am constantly learning and developing my skills in this field. 👨
 <details>
 <summary> 📈 My GitHub Stats</summary>
 
-  <a href="https://github.com/sponsors/gal-dahan">[![Gal's github stats](https://github-readme-stats.vercel.app/api?username=gal-dahan)](https://github.com/gal-dahan/github-readme-stats) </a>
+ [![Gal's github stats](https://github-readme-stats.vercel.app/api?username=gal-dahan)](https://github.com/gal-dahan) 
 
 </details>
    <a href="https://github.com/sponsors/gal-dahan"><img align="left" width="270" height="290" src="https://image.freepik.com/free-vector/young-freelancer-programmer-coding-with-laptop-vector-geek-character-isolated-white-background_53562-11083.jpg"></a>
