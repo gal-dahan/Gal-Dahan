@@ -4,7 +4,7 @@
 ### 💬 About Me 
 Interacting with computers has been my passion ever since I was a young kid. 
 since I downloaded Softwares and games but mostly Clone Script.
-When I edited , designed and translated I fell in ❤️ in code and websites. 
+When I edited , designed and translated I fell  ❤️ in code and websites. 
 Since then I am constantly learning and developing my skills in this field. 👨‍💻
 <details>
 <summary> 📈 My GitHub Stats</summary>
