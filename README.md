@@ -1,12 +1,5 @@
 ## Hi, I'm Gal!  🤙🏼 
 
-🔥 23 Year's Old computer science student from Israel🔥
-### 💬 About Me 
-Interacting with computers has been my passion ever since I was a young kid. 
-since I downloaded Softwares and games but mostly Clone Script.
-When I edited , designed and translated I fell  ❤️ in code and websites. 
-Since then I am constantly learning and developing my skills in this field. 👨‍💻
-<details>
 <summary> 📈 My GitHub Stats</summary>
 
  [![Gal's github stats](https://github-readme-stats.vercel.app/api?username=gal-dahan)](https://github.com/gal-dahan) 
