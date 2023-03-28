@@ -1,5 +1,6 @@
-## Hi, I'm Gal!  🤙🏼 
+# Hi, I'm Gal!  🤙🏼 
 
+<details>
 <summary> 📈 My GitHub Stats</summary>
 
  [![Gal's github stats](https://github-readme-stats.vercel.app/api?username=gal-dahan)](https://github.com/gal-dahan) 
